@@ -18,6 +18,7 @@ import platform
 
 # 需要获取ip的网址
 sites = [
+    "desktop.docker.com",
     "github.global.ssl.fastly.net",
     "assets-cdn.github.com",
     "documentcloud.github.com",
